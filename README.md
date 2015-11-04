@@ -8,3 +8,4 @@ What I did here:
 3. add compiler plugin
 4. add log4j dependency
 5. add log4j.properties
+6. add jar-with-dependencies
